@@ -1,5 +1,13 @@
 # Real-Time Audio Transcription System
 
+> **Retired — 18 October 2026.** This legacy project receives no new development or fixes. Use [RealTimeTranslation](https://github.com/eugnel-ltd/RealTimeTranslation) for all new work and issue reports.
+>
+> The active app is at [rtt.eugnel.com](https://rtt.eugnel.com). It is for the owner only and requires Cloudflare Access authentication.
+
+## Historical reference
+
+The original documentation below is preserved with the code and history for reference. Its installation instructions, feature claims and roadmap describe the retired project.
+
 A Python-based real-time audio transcription system that captures system audio via BlackHole and provides high-quality speech-to-text conversion using OpenAI's Whisper models.
 
 ## Features
